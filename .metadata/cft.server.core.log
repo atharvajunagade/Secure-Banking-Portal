@@ -1,0 +1,2 @@
+Wed Mar 14 2018 05:28:06 AM - CloudFoundryServer.modifyModules(...): add: { DDOSProjectFirstModule [org.eclipse.jst.jee.server:DDOSProjectFirstModule/jst.web]} remove: {}
+Wed Mar 14 2018 05:28:07 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { DDOSProjectFirstModule [org.eclipse.jst.jee.server:DDOSProjectFirstModule/jst.web]}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>Ebanking</display-name>
+  <welcome-file-list>
+    <welcome-file>Login.jsp</welcome-file>
+  </welcome-file-list>
+  <filter>
+    <filter-name>NoCacheFilter</filter-name>
+    <filter-class>com.util.NoCacheFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>NoCacheFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <filter>
+    <filter-name>RequestFilter</filter-name>
+    <filter-class>com.util.RequestFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>RequestFilter</filter-name>
+    <url-pattern>/Login.jsp</url-pattern>
+    <url-pattern>/Registration.jsp</url-pattern>
+    <url-pattern>/RegisterServlet</url-pattern>
+    <url-pattern>/LoginUser1</url-pattern>
+    <url-pattern>/ForgotServlet</url-pattern>
+    <url-pattern>/ForgotPassword.jsp</url-pattern>
+  </filter-mapping>
+  <session-config>
+    <session-timeout>60</session-timeout>
+  </session-config>
+</web-app>

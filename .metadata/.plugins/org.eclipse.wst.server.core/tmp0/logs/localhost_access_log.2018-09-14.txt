@@ -1,0 +1,10 @@
+127.0.0.1 - - [14/Sep/2018:10:04:54 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [14/Sep/2018:10:05:42 -0700] "GET /ProxyServer/ProxyServlet?ipaddress=0:0:0:0:0:0:0:1&hostName=0:0:0:0:0:0:0:1 HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:48 -0700] "GET /DDOSFullProject/ HTTP/1.1" 200 5593
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/resources/css/style.css HTTP/1.1" 200 80233
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/dist/css/AdminLTE.min.css HTTP/1.1" 200 90157
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/js/jquery.js HTTP/1.1" 200 282988
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121298
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/dist/css/skins/_all-skins.min.css HTTP/1.1" 200 40757
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/resources/scripts/jquery-1.6.4.min-1.js HTTP/1.1" 200 91669
+0:0:0:0:0:0:0:1 - - [14/Sep/2018:10:05:53 -0700] "GET /DDOSFullProject/resources/scripts/jquery-ui-1.8.16.custom.min-1.js HTTP/1.1" 200 210463

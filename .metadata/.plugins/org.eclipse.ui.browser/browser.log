@@ -1,0 +1,60 @@
+
+Mar 21, 2018 23:46:42.56 NEW SESSION
+Mar 21, 2018 23:46:42.56 [5440:16036:0321/234642.551:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+Mar 21, 2018 23:46:42.57 [5440:16036:0321/234642.551:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\hp-pc\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\hp-pc\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 21, 2018 23:46:44.73 [5440:16036:0321/234642.551:ERROR:disk_cache.cc(169)] Unable to create cache
+Mar 21, 2018 23:46:44.74 [5440:16036:0321/234642.551:ERROR:shader_disk_cache.cc(601)] Shader Cache Creation failed: -2
+Mar 21, 2018 23:46:44.74 [5440:16036:0321/234643.020:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+Mar 21, 2018 23:46:44.83 Created new window in existing browser session.
+Mar 21, 2018 23:46:56.64 [6996:13216:0321/234656.647:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 21, 2018 23:47:19.28 [6996:13216:0321/234719.285:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 21, 2018 23:48:12.46 [6996:13216:0321/234812.460:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 21, 2018 23:49:55.57 [6996:13216:0321/234955.569:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 24:01:02.65 [6996:13216:0322/000102.652:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Mar 22, 2018 24:39:54.65 NEW SESSION
+Mar 22, 2018 24:39:54.65 [4280:3820:0322/003954.583:ERROR:backend_impl.cc(1055)] Critical error found -8
+Mar 22, 2018 24:39:54.79 [4280:3196:0322/003954.583:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Mar 22, 2018 24:39:54.80 [4280:3820:0322/003954.583:ERROR:backend_impl.cc(1055)] Critical error found -8
+Mar 22, 2018 24:39:54.80 [4280:3820:0322/003954.583:ERROR:entry_impl.cc(962)] Failed to save user data
+Mar 22, 2018 24:39:55.30 [4280:3820:0322/003955.291:ERROR:entry_impl.cc(962)] Failed to save user data
+Mar 22, 2018 24:39:55.31 [4280:3820:0322/003955.291:ERROR:entry_impl.cc(962)] Failed to save user data
+Mar 22, 2018 24:39:56.16 [4280:3820:0322/003956.160:ERROR:backend_impl.cc(1055)] Critical error found -8
+
+Mar 22, 2018 24:59:31.32 NEW SESSION
+Mar 22, 2018 24:59:31.32 [4180:3528:0322/005931.320:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 24:59:56.96 [4180:3528:0322/005956.962:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:00:47.04 [4180:3528:0322/010047.047:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Mar 22, 2018 01:12:31.28 NEW SESSION
+Mar 22, 2018 01:12:31.28 [5344:5496:0322/011231.281:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+Mar 22, 2018 01:21:20.49 [5344:5348:0322/012120.496:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:21:42.07 [5344:5348:0322/012142.071:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:22:24.71 [5344:5348:0322/012224.718:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:24:17.35 [5344:5348:0322/012417.355:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:27:07.95 [5344:5348:0322/012707.957:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:32:43.84 [5344:5348:0322/013243.840:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:42:43.84 [5344:5348:0322/014243.841:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 01:52:43.84 [5344:5348:0322/015243.842:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 03:51:06.65 [3136:4888:0322/035106.653:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Mar 22, 2018 04:00:08.91 [3136:4036:0322/040008.914:ERROR:ssl_client_socket_impl.cc(1040)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Mar 26, 2018 14:38:27.69 NEW SESSION
+Mar 26, 2018 14:38:27.71 [3976:6892:0326/143827.593:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Mar 26, 2018 14:38:27.73 [3976:6892:0326/143827.636:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Mar 26, 2018 14:38:27.76 [3976:6892:0326/143827.768:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+Mar 26, 2018 14:38:27.77 [3976:6892:0326/143827.771:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+May 14, 2018 19:38:01.88 NEW SESSION
+May 14, 2018 19:38:01.88 [5296:4100:0514/193801.870:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 19, 2018 01:26:29.71 Unable to read VR Path Registry from C:\Users\hp-pc\AppData\Local\openvr\openvrpaths.vrpath
+May 19, 2018 01:26:30.30 [5296:6312:0519/012629.712:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 19, 2018 01:26:52.40 [5296:6312:0519/012652.404:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 19, 2018 01:27:39.92 [5296:6312:0519/012739.928:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 19, 2018 01:29:31.64 [5296:6312:0519/012931.644:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 19, 2018 01:32:56.96 [5296:6312:0519/013256.963:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 19, 2018 01:39:51.77 [5296:6312:0519/013951.771:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2018 18:41:38.78 [5296:6312:0522/184138.784:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2018 18:51:38.81 [5296:6312:0522/185138.802:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2018 19:01:38.87 [5296:6312:0522/190138.803:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2018 19:50:44.82 [5296:6524:0522/195044.816:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -100
